@@ -1,0 +1,170 @@
+h1 {
+    color:black;
+    text-align:left;
+    font-family: 'Arial', sans-serif; /* Choix de la police de caractères */
+    font-size: 2.5rem; /* Taille du texte */
+    white-space: nowrap; /* Empêche le texte de passer à la ligne automatiquement */ 
+    text-align: center; /* Alignement du texte au centre */
+    text-transform: uppercase; /* Transformation en majuscules */
+    margin-bottom: 20px; /* Marge en bas pour l'espacement */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); /* Ombre portée pour le texte */
+    
+}
+.testimonials-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.testimonial {
+    max-width: 400px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.quote {
+    font-style: italic;
+    margin-bottom: 10px;
+    color: #333;
+    white-space: nowrap; /* Empêche le texte de passer à la ligne automatiquement */
+
+
+}
+
+.author {
+    font-weight: bold;
+    text-align:center; /* Alignement à gauche */
+
+
+}
+.delivery-returns-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align:left; /* Alignement à gauche */
+
+}
+
+.delivery, .returns {
+    margin-bottom: 20px;
+    text-align:left; /* Alignement à gauche */
+
+}
+
+h2, h3 {
+    color:black;
+    text-align:left; /* Alignement à gauche */
+
+}
+#p{
+    color:black;
+    text-align:left; /* Alignement à gauche */
+    white-space: nowrap; /* Empêche le texte de passer à la ligne automatiquement */ 
+}
+p {
+    color:black;
+    text-align:left; /* Alignement à gauche */
+    white-space: nowrap; /* Empêche le texte de passer à la ligne automatiquement */
+}
+#para,#Ameni,#p{
+    text-align:left; /* Alignement à gauche */
+    color:black;
+}
+#h2,#h3,#head3{
+    color:black;
+    text-align:left;
+    font-family: 'Arial', sans-serif; /* Choix de la police de caractères */
+    font-size: 2.5rem; /* Taille du texte */
+    
+    text-align: center; /* Alignement du texte au centre */
+    text-transform: uppercase; /* Transformation en majuscules */
+    margin-bottom: 20px; /* Marge en bas pour l'espacement */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); /* Ombre portée pour le texte */
+}
+/*h1{
+    color: black;
+    text-align:left; /* Alignement à gauche */
+
+*/
+textarea{
+    color: black;
+}
+.container {
+    display: flex; /* Utilisation de flexbox pour aligner les éléments horizontalement */
+    margin-top: -65px;
+}
+
+.head, .parag {
+    margin-right: 10px; /* Marge entre les deux phrases pour l'espacement */
+}
+.parag{
+    font-size: 20px; /* Taille du texte de 20 pixels */
+    size: 50px;
+    margin: bottom 10px; /* Ajoute un espacement de 20 pixels en dessous du paragraphe */
+
+}
+#pa{
+    color: black
+}
+h3{
+    color:black;
+    text-align:left;
+    font-family: 'Arial', sans-serif; /* Choix de la police de caractères */
+    font-size: 2.5rem; /* Taille du texte */
+    
+    text-align: center; /* Alignement du texte au centre */
+    text-transform: uppercase; /* Transformation en majuscules */
+    margin-bottom: 20px; /* Marge en bas pour l'espacement */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); /* Ombre portée pour le texte */
+}
+#title{
+    color:black;
+    text-align:left;
+    font-family: 'Arial', sans-serif; /* Choix de la police de caractères */
+    font-size: 2.5rem; /* Taille du texte */
+    white-space: nowrap; /* Empêche le texte de passer à la ligne automatiquement */ 
+    text-align: center; /* Alignement du texte au centre */
+    text-transform: uppercase; /* Transformation en majuscules */
+    margin-bottom: 20px; /* Marge en bas pour l'espacement */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); /* Ombre portée pour le texte */
+    font-size: 24px;
+    font-weight: bold;
+   /* text-transform: uppercase;*/
+    text-align: center;
+    margin-top:  18px;
+    padding: 20px;
+    /*border: 2px solid black;*/
+    
+}
+#title1{
+    color:black;
+    text-align:left;
+    font-family: 'Arial', sans-serif; /* Choix de la police de caractères */
+    font-size: 2.5rem; /* Taille du texte */
+    white-space: nowrap; /* Empêche le texte de passer à la ligne automatiquement */ 
+    text-align: center; /* Alignement du texte au centre */
+    text-transform: uppercase; /* Transformation en majuscules */
+    margin-bottom: 20px; /* Marge en bas pour l'espacement */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); /* Ombre portée pour le texte */
+    font-size: 24px;
+    font-weight: bold;
+   /* text-transform: uppercase;*/
+    text-align: center;
+    margin-top: 1px;
+    padding: 10px;
+    /*border: 2px solid black;*/
+    
+}
+.contact{
+    margin-top: 1px;
+}
